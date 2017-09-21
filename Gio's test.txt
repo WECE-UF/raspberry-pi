@@ -1,1 +1,4 @@
 Gio's commit
+
+
+Use bootstrap; put it in your header and include a mobile view
